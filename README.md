@@ -1,1 +1,1 @@
-# CSE414 Database Systems HW6
+# vaccine-scheduler-java
